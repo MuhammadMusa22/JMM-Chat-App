@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726153556785",
+    "project_id": "jmm-chat-app",
+    "storage_bucket": "jmm-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726153556785:android:7ae5b674b7a3e53e42f610",
+        "android_client_info": {
+          "package_name": "com.musa.jmm_quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726153556785-qi3sjhgvbjelf8g9bhapgm8l6use469s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musa.jmm_quiz_app",
+            "certificate_hash": "0e9413ae5eb176ecb0dfcbfc3cacdf7968703756"
+          }
+        },
+        {
+          "client_id": "726153556785-al413827ar0qiprtaf0o4ao4vkv2e9cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10EEPKvNq_N_JKvpZOvUccGXcbPvSkSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726153556785-al413827ar0qiprtaf0o4ao4vkv2e9cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

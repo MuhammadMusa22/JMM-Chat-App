@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jmm</string>
+    <string name="facebook_app_id">492396191827834</string>
+    <string name="fb_login_protocol_scheme">fb492396191827834</string>
+</resources>
